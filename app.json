@@ -13,49 +13,49 @@
     "success_url": "https://t.me/EITHON",
     "env": {
         "API_ID": {
-            "description": "قم بوضع الايبي ايدي هنا",
+            "description"25385761",
             "required": true
         },
         "API_HASH": {
-            "description": "قم بوضع الايبي هاش",
+            "description": "dbeeb00a05f8d4e2edc17470c12d0dd1",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "قم بوضع توكن البوت الخاص بك هنا",
+            "description"5618471558:AAECk8DylNojrojKeR6aJQQxSlt_yVdQm3Q",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description"wolf_music_1bot",
             "required": true
         },
         "BOT_NAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description": "wolf_music_1bot",
             "required": true
         },
         "ASSISTANT_NAME": {
-            "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
+            "description"wolf_musc_1",
             "required": true
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "AgAlnM0aWM3zxS07RIz22bQcjJENY_FVuLNT0dry4uNQCxcGktlq1501SNE5qsjmIUI-yoGYjPJXB-0sOTTKzdsawqQhHTynNo1cT_QPO8EfZBYkqqj9hmIpIh0lPmujWJuEHYo4C-eAKdCrdme1oIU4pmPMQ0gJoYLw5IjFyJkfDzHVY-vgptPhfdA5vLlnnPYGUrY2Dceqr5MC6vp-K1zqgZCcdpdydBAPQFBp7lXeEH0Efylj1vYidhIh4Vdn1cKCJ4u6ZtDEfgUM4ID6DTl3ImR7zmLurRVhb2I34vY1JgX5HrIv7maeiIlq2axoqklaIHakNETt0Vh7bCoJlTPFAAAAAVhaDZgA",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "قم بوضع ايدي المطور الاساسي",
+            "description"5331826773",
             "required": true
         },
         "GROUP_SUPPORT": {
-            "description": "ضع هنا يوزر جروبك بدون علامة @",
+            "description"wolf_musc",
             "required": true,
             "value": "eithonsupport"
         },
         "UPDATES_CHANNEL": {
-            "description": "ضع هنا يوزر قناتك بدون علامة @",
+            "description"gawad214",
             "required": true,
             "value": "EITHON"
         },
         "OWNER_NAME": {
-            "description": "ضع هنا يوزر المطور بدون علامة @",
+            "description"J_A_W_A_D_L_O_L_O",
             "required": true,
             "value": "Mohmad990754"
         },
